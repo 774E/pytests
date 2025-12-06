@@ -1,0 +1,669 @@
+{
+  "blocks": [
+    {
+      "position": [
+        -3.0,
+        0.0,
+        -3.0
+      ],
+      "block_type": "stone-block"
+    },
+    {
+      "position": [
+        -3.0,
+        0.0,
+        -2.0
+      ],
+      "block_type": "stone-block"
+    },
+    {
+      "position": [
+        -3.0,
+        0.0,
+        -1.0
+      ],
+      "block_type": "stone-block"
+    },
+    {
+      "position": [
+        -3.0,
+        0.0,
+        0.0
+      ],
+      "block_type": "stone-block"
+    },
+    {
+      "position": [
+        -3.0,
+        0.0,
+        1.0
+      ],
+      "block_type": "stone-block"
+    },
+    {
+      "position": [
+        -3.0,
+        0.0,
+        2.0
+      ],
+      "block_type": "stone-block"
+    },
+    {
+      "position": [
+        -2.0,
+        0.0,
+        -3.0
+      ],
+      "block_type": "stone-block"
+    },
+    {
+      "position": [
+        -2.0,
+        0.0,
+        -2.0
+      ],
+      "block_type": "stone-block"
+    },
+    {
+      "position": [
+        -2.0,
+        0.0,
+        -1.0
+      ],
+      "block_type": "stone-block"
+    },
+    {
+      "position": [
+        -2.0,
+        0.0,
+        0.0
+      ],
+      "block_type": "stone-block"
+    },
+    {
+      "position": [
+        -2.0,
+        0.0,
+        1.0
+      ],
+      "block_type": "stone-block"
+    },
+    {
+      "position": [
+        -2.0,
+        0.0,
+        2.0
+      ],
+      "block_type": "stone-block"
+    },
+    {
+      "position": [
+        -1.0,
+        0.0,
+        -3.0
+      ],
+      "block_type": "stone-block"
+    },
+    {
+      "position": [
+        -1.0,
+        0.0,
+        -2.0
+      ],
+      "block_type": "stone-block"
+    },
+    {
+      "position": [
+        -1.0,
+        0.0,
+        -1.0
+      ],
+      "block_type": "stone-block"
+    },
+    {
+      "position": [
+        -1.0,
+        0.0,
+        0.0
+      ],
+      "block_type": "stone-block"
+    },
+    {
+      "position": [
+        -1.0,
+        0.0,
+        1.0
+      ],
+      "block_type": "stone-block"
+    },
+    {
+      "position": [
+        -1.0,
+        0.0,
+        2.0
+      ],
+      "block_type": "stone-block"
+    },
+    {
+      "position": [
+        0.0,
+        0.0,
+        -3.0
+      ],
+      "block_type": "stone-block"
+    },
+    {
+      "position": [
+        0.0,
+        0.0,
+        -2.0
+      ],
+      "block_type": "stone-block"
+    },
+    {
+      "position": [
+        0.0,
+        0.0,
+        2.0
+      ],
+      "block_type": "stone-block"
+    },
+    {
+      "position": [
+        1.0,
+        0.0,
+        -3.0
+      ],
+      "block_type": "stone-block"
+    },
+    {
+      "position": [
+        1.0,
+        0.0,
+        -2.0
+      ],
+      "block_type": "stone-block"
+    },
+    {
+      "position": [
+        1.0,
+        0.0,
+        -1.0
+      ],
+      "block_type": "stone-block"
+    },
+    {
+      "position": [
+        1.0,
+        0.0,
+        0.0
+      ],
+      "block_type": "stone-block"
+    },
+    {
+      "position": [
+        1.0,
+        0.0,
+        1.0
+      ],
+      "block_type": "stone-block"
+    },
+    {
+      "position": [
+        1.0,
+        0.0,
+        2.0
+      ],
+      "block_type": "stone-block"
+    },
+    {
+      "position": [
+        2.0,
+        0.0,
+        -3.0
+      ],
+      "block_type": "stone-block"
+    },
+    {
+      "position": [
+        2.0,
+        0.0,
+        -2.0
+      ],
+      "block_type": "stone-block"
+    },
+    {
+      "position": [
+        2.0,
+        0.0,
+        -1.0
+      ],
+      "block_type": "stone-block"
+    },
+    {
+      "position": [
+        2.0,
+        0.0,
+        0.0
+      ],
+      "block_type": "stone-block"
+    },
+    {
+      "position": [
+        2.0,
+        0.0,
+        1.0
+      ],
+      "block_type": "stone-block"
+    },
+    {
+      "position": [
+        2.0,
+        0.0,
+        2.0
+      ],
+      "block_type": "stone-block"
+    },
+    {
+      "position": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "block_type": "block"
+    },
+    {
+      "position": [
+        2.0,
+        1.0,
+        -3.0
+      ],
+      "block_type": "white-block"
+    },
+    {
+      "position": [
+        1.0,
+        1.0,
+        -3.0
+      ],
+      "block_type": "white-block"
+    },
+    {
+      "position": [
+        0.0,
+        1.0,
+        -3.0
+      ],
+      "block_type": "white-block"
+    },
+    {
+      "position": [
+        -1.0,
+        1.0,
+        -3.0
+      ],
+      "block_type": "white-block"
+    },
+    {
+      "position": [
+        -2.0,
+        1.0,
+        -3.0
+      ],
+      "block_type": "white-block"
+    },
+    {
+      "position": [
+        -3.0,
+        1.0,
+        -3.0
+      ],
+      "block_type": "white-block"
+    },
+    {
+      "position": [
+        2.0,
+        2.0,
+        -3.0
+      ],
+      "block_type": "white-block"
+    },
+    {
+      "position": [
+        1.0,
+        2.0,
+        -3.0
+      ],
+      "block_type": "white-block"
+    },
+    {
+      "position": [
+        0.0,
+        2.0,
+        -3.0
+      ],
+      "block_type": "white-block"
+    },
+    {
+      "position": [
+        -1.0,
+        2.0,
+        -3.0
+      ],
+      "block_type": "white-block"
+    },
+    {
+      "position": [
+        -2.0,
+        2.0,
+        -3.0
+      ],
+      "block_type": "white-block"
+    },
+    {
+      "position": [
+        -3.0,
+        2.0,
+        -3.0
+      ],
+      "block_type": "white-block"
+    },
+    {
+      "position": [
+        2.0,
+        1.0,
+        -2.0
+      ],
+      "block_type": "white-block"
+    },
+    {
+      "position": [
+        2.0,
+        1.0,
+        -1.0
+      ],
+      "block_type": "white-block"
+    },
+    {
+      "position": [
+        2.0,
+        2.0,
+        -2.0
+      ],
+      "block_type": "white-block"
+    },
+    {
+      "position": [
+        2.0,
+        2.0,
+        -1.0
+      ],
+      "block_type": "white-block"
+    },
+    {
+      "position": [
+        -3.0,
+        1.0,
+        -2.0
+      ],
+      "block_type": "sword"
+    },
+    {
+      "position": [
+        -3.0,
+        1.0,
+        -1.0
+      ],
+      "block_type": "skinmc"
+    },
+    {
+      "position": [
+        -3.0,
+        1.0,
+        0.0
+      ],
+      "block_type": "skinmc"
+    },
+    {
+      "position": [
+        0.0,
+        0.0,
+        1.0
+      ],
+      "block_type": "pickaxe"
+    },
+    {
+      "position": [
+        0.0,
+        0.0,
+        -1.0
+      ],
+      "block_type": "pickaxe"
+    },
+    {
+      "position": [
+        -1.0,
+        1.0,
+        2.0
+      ],
+      "block_type": "pickaxe.png"
+    },
+    {
+      "position": [
+        0.0,
+        1.0,
+        2.0
+      ],
+      "block_type": "pickaxe"
+    },
+    {
+      "position": [
+        -1.0,
+        2.0,
+        2.0
+      ],
+      "block_type": "gun"
+    },
+    {
+      "position": [
+        1.0,
+        1.0,
+        2.0
+      ],
+      "block_type": "dirt-block"
+    },
+    {
+      "position": [
+        2.0,
+        1.0,
+        2.0
+      ],
+      "block_type": "block"
+    },
+    {
+      "position": [
+        2.0,
+        1.0,
+        1.0
+      ],
+      "block_type": "testtttt"
+    },
+    {
+      "position": [
+        -2.0,
+        1.0,
+        2.0
+      ],
+      "block_type": "pickaxe"
+    },
+    {
+      "position": [
+        -3.0,
+        1.0,
+        2.0
+      ],
+      "block_type": "pickaxe"
+    }
+  ],
+  "player": {
+    "position": [
+      -1.810141921043396,
+      0.5,
+      -1.8389889001846313
+    ],
+    "rotation": [
+      -0.0,
+      -4687.455078125,
+      0.0
+    ],
+    "fly_mode": false,
+    "speed": 5
+  },
+  "inventory": [
+    {
+      "item": "testtttt",
+      "count": 0
+    },
+    {
+      "item": "air",
+      "count": 0
+    },
+    {
+      "item": "air",
+      "count": 0
+    },
+    {
+      "item": "air",
+      "count": 0
+    },
+    {
+      "item": "air",
+      "count": 0
+    },
+    {
+      "item": "air",
+      "count": 0
+    },
+    {
+      "item": "air",
+      "count": 0
+    },
+    {
+      "item": "air",
+      "count": 0
+    },
+    {
+      "item": "air",
+      "count": 0
+    },
+    {
+      "item": "air",
+      "count": 0
+    },
+    {
+      "item": "air",
+      "count": 0
+    },
+    {
+      "item": "air",
+      "count": 0
+    },
+    {
+      "item": "air",
+      "count": 0
+    },
+    {
+      "item": "air",
+      "count": 0
+    },
+    {
+      "item": "air",
+      "count": 0
+    },
+    {
+      "item": "air",
+      "count": 0
+    },
+    {
+      "item": "air",
+      "count": 0
+    },
+    {
+      "item": "air",
+      "count": 0
+    },
+    {
+      "item": "air",
+      "count": 0
+    },
+    {
+      "item": "air",
+      "count": 0
+    },
+    {
+      "item": "air",
+      "count": 0
+    },
+    {
+      "item": "air",
+      "count": 0
+    },
+    {
+      "item": "air",
+      "count": 0
+    },
+    {
+      "item": "air",
+      "count": 0
+    },
+    {
+      "item": "air",
+      "count": 0
+    },
+    {
+      "item": "air",
+      "count": 0
+    },
+    {
+      "item": "air",
+      "count": 0
+    },
+    {
+      "item": "stone-block",
+      "count": 67
+    },
+    {
+      "item": "test",
+      "count": 2
+    },
+    {
+      "item": "pickaxe",
+      "count": 0
+    },
+    {
+      "item": "air",
+      "count": 0
+    },
+    {
+      "item": "air",
+      "count": 0
+    },
+    {
+      "item": "air",
+      "count": 0
+    },
+    {
+      "item": "air",
+      "count": 0
+    },
+    {
+      "item": "air",
+      "count": 0
+    },
+    {
+      "item": "air",
+      "count": 0
+    }
+  ],
+  "version": "1.0"
+}

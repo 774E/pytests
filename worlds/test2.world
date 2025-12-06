@@ -1,0 +1,925 @@
+{
+  "blocks": [
+    {
+      "position": [
+        -3.0,
+        0.0,
+        -3.0
+      ],
+      "block_type": "block"
+    },
+    {
+      "position": [
+        -3.0,
+        0.0,
+        -2.0
+      ],
+      "block_type": "block"
+    },
+    {
+      "position": [
+        -3.0,
+        0.0,
+        -1.0
+      ],
+      "block_type": "block"
+    },
+    {
+      "position": [
+        -3.0,
+        0.0,
+        0.0
+      ],
+      "block_type": "block"
+    },
+    {
+      "position": [
+        -3.0,
+        0.0,
+        1.0
+      ],
+      "block_type": "block"
+    },
+    {
+      "position": [
+        -3.0,
+        0.0,
+        2.0
+      ],
+      "block_type": "block"
+    },
+    {
+      "position": [
+        -2.0,
+        0.0,
+        -3.0
+      ],
+      "block_type": "block"
+    },
+    {
+      "position": [
+        -2.0,
+        0.0,
+        -2.0
+      ],
+      "block_type": "block"
+    },
+    {
+      "position": [
+        -2.0,
+        0.0,
+        -1.0
+      ],
+      "block_type": "block"
+    },
+    {
+      "position": [
+        -2.0,
+        0.0,
+        0.0
+      ],
+      "block_type": "block"
+    },
+    {
+      "position": [
+        -2.0,
+        0.0,
+        1.0
+      ],
+      "block_type": "block"
+    },
+    {
+      "position": [
+        -2.0,
+        0.0,
+        2.0
+      ],
+      "block_type": "block"
+    },
+    {
+      "position": [
+        -1.0,
+        0.0,
+        -3.0
+      ],
+      "block_type": "block"
+    },
+    {
+      "position": [
+        -1.0,
+        0.0,
+        -2.0
+      ],
+      "block_type": "block"
+    },
+    {
+      "position": [
+        -1.0,
+        0.0,
+        -1.0
+      ],
+      "block_type": "block"
+    },
+    {
+      "position": [
+        -1.0,
+        0.0,
+        0.0
+      ],
+      "block_type": "block"
+    },
+    {
+      "position": [
+        -1.0,
+        0.0,
+        1.0
+      ],
+      "block_type": "block"
+    },
+    {
+      "position": [
+        -1.0,
+        0.0,
+        2.0
+      ],
+      "block_type": "block"
+    },
+    {
+      "position": [
+        0.0,
+        0.0,
+        -3.0
+      ],
+      "block_type": "block"
+    },
+    {
+      "position": [
+        0.0,
+        0.0,
+        -2.0
+      ],
+      "block_type": "block"
+    },
+    {
+      "position": [
+        0.0,
+        0.0,
+        -1.0
+      ],
+      "block_type": "block"
+    },
+    {
+      "position": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "block_type": "block"
+    },
+    {
+      "position": [
+        0.0,
+        0.0,
+        1.0
+      ],
+      "block_type": "block"
+    },
+    {
+      "position": [
+        0.0,
+        0.0,
+        2.0
+      ],
+      "block_type": "block"
+    },
+    {
+      "position": [
+        1.0,
+        0.0,
+        -3.0
+      ],
+      "block_type": "block"
+    },
+    {
+      "position": [
+        1.0,
+        0.0,
+        -2.0
+      ],
+      "block_type": "block"
+    },
+    {
+      "position": [
+        1.0,
+        0.0,
+        -1.0
+      ],
+      "block_type": "block"
+    },
+    {
+      "position": [
+        1.0,
+        0.0,
+        0.0
+      ],
+      "block_type": "block"
+    },
+    {
+      "position": [
+        1.0,
+        0.0,
+        1.0
+      ],
+      "block_type": "block"
+    },
+    {
+      "position": [
+        1.0,
+        0.0,
+        2.0
+      ],
+      "block_type": "block"
+    },
+    {
+      "position": [
+        2.0,
+        0.0,
+        -3.0
+      ],
+      "block_type": "block"
+    },
+    {
+      "position": [
+        2.0,
+        0.0,
+        -2.0
+      ],
+      "block_type": "block"
+    },
+    {
+      "position": [
+        2.0,
+        0.0,
+        -1.0
+      ],
+      "block_type": "block"
+    },
+    {
+      "position": [
+        2.0,
+        0.0,
+        0.0
+      ],
+      "block_type": "block"
+    },
+    {
+      "position": [
+        2.0,
+        0.0,
+        1.0
+      ],
+      "block_type": "block"
+    },
+    {
+      "position": [
+        2.0,
+        0.0,
+        2.0
+      ],
+      "block_type": "block"
+    },
+    {
+      "position": [
+        -3.0,
+        1.0,
+        2.0
+      ],
+      "block_type": "block"
+    },
+    {
+      "position": [
+        -2.0,
+        1.0,
+        2.0
+      ],
+      "block_type": "block"
+    },
+    {
+      "position": [
+        -1.0,
+        1.0,
+        2.0
+      ],
+      "block_type": "block"
+    },
+    {
+      "position": [
+        0.0,
+        1.0,
+        2.0
+      ],
+      "block_type": "block"
+    },
+    {
+      "position": [
+        1.0,
+        1.0,
+        2.0
+      ],
+      "block_type": "block"
+    },
+    {
+      "position": [
+        2.0,
+        1.0,
+        2.0
+      ],
+      "block_type": "block"
+    },
+    {
+      "position": [
+        2.0,
+        1.0,
+        1.0
+      ],
+      "block_type": "block"
+    },
+    {
+      "position": [
+        -3.0,
+        1.0,
+        1.0
+      ],
+      "block_type": "block"
+    },
+    {
+      "position": [
+        -3.0,
+        1.0,
+        0.0
+      ],
+      "block_type": "block"
+    },
+    {
+      "position": [
+        2.0,
+        1.0,
+        0.0
+      ],
+      "block_type": "block"
+    },
+    {
+      "position": [
+        2.0,
+        1.0,
+        -1.0
+      ],
+      "block_type": "block"
+    },
+    {
+      "position": [
+        2.0,
+        1.0,
+        -2.0
+      ],
+      "block_type": "block"
+    },
+    {
+      "position": [
+        -3.0,
+        1.0,
+        -1.0
+      ],
+      "block_type": "block"
+    },
+    {
+      "position": [
+        2.0,
+        1.0,
+        -3.0
+      ],
+      "block_type": "block"
+    },
+    {
+      "position": [
+        -3.0,
+        1.0,
+        -2.0
+      ],
+      "block_type": "block"
+    },
+    {
+      "position": [
+        -3.0,
+        1.0,
+        -3.0
+      ],
+      "block_type": "block"
+    },
+    {
+      "position": [
+        1.0,
+        1.0,
+        -3.0
+      ],
+      "block_type": "block"
+    },
+    {
+      "position": [
+        0.0,
+        1.0,
+        -3.0
+      ],
+      "block_type": "block"
+    },
+    {
+      "position": [
+        -1.0,
+        1.0,
+        -3.0
+      ],
+      "block_type": "block"
+    },
+    {
+      "position": [
+        -2.0,
+        1.0,
+        -3.0
+      ],
+      "block_type": "block"
+    },
+    {
+      "position": [
+        2.0,
+        2.0,
+        -2.0
+      ],
+      "block_type": "white-block"
+    },
+    {
+      "position": [
+        2.0,
+        2.0,
+        -3.0
+      ],
+      "block_type": "block"
+    },
+    {
+      "position": [
+        1.0,
+        2.0,
+        -3.0
+      ],
+      "block_type": "white-block"
+    },
+    {
+      "position": [
+        0.0,
+        2.0,
+        -3.0
+      ],
+      "block_type": "white-block"
+    },
+    {
+      "position": [
+        -1.0,
+        2.0,
+        -3.0
+      ],
+      "block_type": "white-block"
+    },
+    {
+      "position": [
+        -2.0,
+        2.0,
+        -3.0
+      ],
+      "block_type": "white-block"
+    },
+    {
+      "position": [
+        -3.0,
+        2.0,
+        -3.0
+      ],
+      "block_type": "block"
+    },
+    {
+      "position": [
+        -3.0,
+        2.0,
+        -2.0
+      ],
+      "block_type": "white-block"
+    },
+    {
+      "position": [
+        -3.0,
+        2.0,
+        -1.0
+      ],
+      "block_type": "white-block"
+    },
+    {
+      "position": [
+        -3.0,
+        2.0,
+        0.0
+      ],
+      "block_type": "white-block"
+    },
+    {
+      "position": [
+        -3.0,
+        2.0,
+        1.0
+      ],
+      "block_type": "white-block"
+    },
+    {
+      "position": [
+        -3.0,
+        2.0,
+        2.0
+      ],
+      "block_type": "block"
+    },
+    {
+      "position": [
+        -2.0,
+        2.0,
+        2.0
+      ],
+      "block_type": "white-block"
+    },
+    {
+      "position": [
+        -1.0,
+        2.0,
+        2.0
+      ],
+      "block_type": "white-block"
+    },
+    {
+      "position": [
+        0.0,
+        2.0,
+        2.0
+      ],
+      "block_type": "white-block"
+    },
+    {
+      "position": [
+        1.0,
+        2.0,
+        2.0
+      ],
+      "block_type": "white-block"
+    },
+    {
+      "position": [
+        2.0,
+        2.0,
+        2.0
+      ],
+      "block_type": "block"
+    },
+    {
+      "position": [
+        2.0,
+        2.0,
+        1.0
+      ],
+      "block_type": "white-block"
+    },
+    {
+      "position": [
+        2.0,
+        2.0,
+        0.0
+      ],
+      "block_type": "white-block"
+    },
+    {
+      "position": [
+        2.0,
+        2.0,
+        -1.0
+      ],
+      "block_type": "white-block"
+    },
+    {
+      "position": [
+        -2.0,
+        1.0,
+        -2.0
+      ],
+      "block_type": "dirt-block"
+    },
+    {
+      "position": [
+        -2.0,
+        1.0,
+        -1.0
+      ],
+      "block_type": "dirt-block"
+    },
+    {
+      "position": [
+        -2.0,
+        1.0,
+        0.0
+      ],
+      "block_type": "dirt-block"
+    },
+    {
+      "position": [
+        -2.0,
+        1.0,
+        1.0
+      ],
+      "block_type": "dirt-block"
+    },
+    {
+      "position": [
+        -1.0,
+        1.0,
+        1.0
+      ],
+      "block_type": "dirt-block"
+    },
+    {
+      "position": [
+        -1.0,
+        1.0,
+        -0.0
+      ],
+      "block_type": "dirt-block"
+    },
+    {
+      "position": [
+        -1.0,
+        1.0,
+        -1.0
+      ],
+      "block_type": "dirt-block"
+    },
+    {
+      "position": [
+        -1.0,
+        1.0,
+        -2.0
+      ],
+      "block_type": "dirt-block"
+    },
+    {
+      "position": [
+        0.0,
+        1.0,
+        -2.0
+      ],
+      "block_type": "dirt-block"
+    },
+    {
+      "position": [
+        0.0,
+        1.0,
+        -1.0
+      ],
+      "block_type": "dirt-block"
+    },
+    {
+      "position": [
+        0.0,
+        1.0,
+        0.0
+      ],
+      "block_type": "dirt-block"
+    },
+    {
+      "position": [
+        0.0,
+        1.0,
+        1.0
+      ],
+      "block_type": "dirt-block"
+    },
+    {
+      "position": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "block_type": "dirt-block"
+    },
+    {
+      "position": [
+        1.0,
+        1.0,
+        0.0
+      ],
+      "block_type": "dirt-block"
+    },
+    {
+      "position": [
+        1.0,
+        1.0,
+        -1.0
+      ],
+      "block_type": "dirt-block"
+    },
+    {
+      "position": [
+        1.0,
+        1.0,
+        -2.0
+      ],
+      "block_type": "dirt-block"
+    },
+    {
+      "position": [
+        -2.0,
+        2.0,
+        -2.0
+      ],
+      "block_type": "gun"
+    },
+    {
+      "position": [
+        -2.0,
+        2.0,
+        -1.0
+      ],
+      "block_type": "pickaxe"
+    },
+    {
+      "position": [
+        -2.0,
+        2.0,
+        0.0
+      ],
+      "block_type": "sword"
+    }
+  ],
+  "player": {
+    "position": [
+      -1.6252444982528687,
+      2.5,
+      -3.043592929840088
+    ],
+    "rotation": [
+      -0.0,
+      697.1298828125,
+      0.0
+    ],
+    "fly_mode": false,
+    "speed": 5
+  },
+  "inventory": [
+    {
+      "item": "air",
+      "count": 0
+    },
+    {
+      "item": "air",
+      "count": 0
+    },
+    {
+      "item": "air",
+      "count": 0
+    },
+    {
+      "item": "air",
+      "count": 0
+    },
+    {
+      "item": "air",
+      "count": 0
+    },
+    {
+      "item": "air",
+      "count": 0
+    },
+    {
+      "item": "air",
+      "count": 0
+    },
+    {
+      "item": "air",
+      "count": 0
+    },
+    {
+      "item": "air",
+      "count": 0
+    },
+    {
+      "item": "air",
+      "count": 0
+    },
+    {
+      "item": "air",
+      "count": 0
+    },
+    {
+      "item": "air",
+      "count": 0
+    },
+    {
+      "item": "air",
+      "count": 0
+    },
+    {
+      "item": "air",
+      "count": 0
+    },
+    {
+      "item": "air",
+      "count": 0
+    },
+    {
+      "item": "air",
+      "count": 0
+    },
+    {
+      "item": "air",
+      "count": 0
+    },
+    {
+      "item": "air",
+      "count": 0
+    },
+    {
+      "item": "air",
+      "count": 0
+    },
+    {
+      "item": "air",
+      "count": 0
+    },
+    {
+      "item": "air",
+      "count": 0
+    },
+    {
+      "item": "air",
+      "count": 0
+    },
+    {
+      "item": "air",
+      "count": 0
+    },
+    {
+      "item": "air",
+      "count": 0
+    },
+    {
+      "item": "air",
+      "count": 0
+    },
+    {
+      "item": "air",
+      "count": 0
+    },
+    {
+      "item": "air",
+      "count": 0
+    },
+    {
+      "item": "block",
+      "count": 104
+    },
+    {
+      "item": "white-block",
+      "count": 48
+    },
+    {
+      "item": "dirt-block",
+      "count": 48
+    },
+    {
+      "item": "gun",
+      "count": 0
+    },
+    {
+      "item": "pickaxe",
+      "count": 0
+    },
+    {
+      "item": "sword",
+      "count": 0
+    },
+    {
+      "item": "air",
+      "count": 0
+    },
+    {
+      "item": "air",
+      "count": 0
+    },
+    {
+      "item": "air",
+      "count": 0
+    }
+  ],
+  "version": "1.0"
+}
